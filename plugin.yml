@@ -1,0 +1,4 @@
+name: CleanOcean
+version: 0.0.1
+main: com.github.ar7ific1al.cleanocean.Plugin
+load: startup
